@@ -37,6 +37,7 @@ A retail sales forecasting project that predicts daily sales using historical sa
 **Technologies:** Python, Pandas, NumPy, Scikit-learn
 
 🔗 [View Source Code](https://github.com/KusumaC2803/Rossmann-Store-Sales-Prediction)
+✈️ [Live Dashboard](https://rossmann-store-sales-prediction-jqpymcywy44nzt8l7seoco.streamlit.app)
 
 ### 2. More Projects Coming Soon
 
