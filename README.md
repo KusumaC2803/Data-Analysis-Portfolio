@@ -39,7 +39,7 @@ A retail sales forecasting project that predicts daily sales using historical sa
 🔗 [View Source Code](https://github.com/KusumaC2803/Rossmann-Store-Sales-Prediction)
 ✈️ [Live Dashboard](https://rossmann-store-sales-prediction-jqpymcywy44nzt8l7seoco.streamlit.app)
 
-### Sales Trend Forecasting 📈
+### 2.Sales Trend Forecasting 📈
 
 An interactive sales analysis and forecasting project built using Python, Pandas, Matplotlib, Statsmodels, Scikit-learn, and Streamlit.
 
