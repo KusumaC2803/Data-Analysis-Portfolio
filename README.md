@@ -39,9 +39,28 @@ A retail sales forecasting project that predicts daily sales using historical sa
 🔗 [View Source Code](https://github.com/KusumaC2803/Rossmann-Store-Sales-Prediction)
 ✈️ [Live Dashboard](https://rossmann-store-sales-prediction-jqpymcywy44nzt8l7seoco.streamlit.app)
 
-### 2. More Projects Coming Soon
+### Sales Trend Forecasting 📈
 
-Additional data analysis, visualization, and machine learning projects will be added as this portfolio grows.
+An interactive sales analysis and forecasting project built using Python, Pandas, Matplotlib, Statsmodels, Scikit-learn, and Streamlit.
+
+**Key Features**
+
+* Analyzed historical monthly sales trends.
+* Calculated key performance indicators, including total, average, and highest monthly sales.
+* Performed month-over-month growth analysis.
+* Compared Naive Baseline and Exponential Smoothing forecasting models.
+* Evaluated model performance using MAE and RMSE.
+* Forecasted sales for the next three months.
+* Developed an interactive Streamlit dashboard.
+
+**Technologies:** Python | Pandas | Matplotlib | Statsmodels | Scikit-learn | Streamlit
+
+**Dataset:** 24 monthly sample observations from January 2024 to December 2025.
+
+**Key Learning:** Time-series analysis, forecasting, model evaluation, data visualization, and dashboard development.
+
+**Note:** Results are illustrative because the dataset is small and the validation period contains only two observations.
+
 
 ## 🎯 Career Interests
 
