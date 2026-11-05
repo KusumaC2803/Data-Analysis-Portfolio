@@ -63,7 +63,7 @@ An interactive sales analysis and forecasting project built using Python, Pandas
 
 🔗 [View Source Code](https://github.com/KusumaC2803/Sales-Trend-Forecasting)
 
-📊 [View Power BI Dashboard](Sales_Trending_Forecast.pdf)
+📊 [View Power BI Dashboard](https://github.com/KusumaC2803/Sales-Trend-Forecasting/blob/main/Sales_Trending_Forecast.pdf)
 
 🚀 [Live Dashboard](https://gt24nqkahduthzm4fkctrr.streamlit.app/)
 
