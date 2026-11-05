@@ -60,6 +60,12 @@ An interactive sales analysis and forecasting project built using Python, Pandas
 **Key Learning:** Time-series analysis, forecasting, model evaluation, data visualization, and dashboard development.
 
 **Note:** Results are illustrative because the dataset is small and the validation period contains only two observations.
+🔗 [View Source Code](https://github.com/KusumaC2803/Sales-Trend-Forecasting)
+
+📊 [View Power BI Dashboard](https://github.com/KusumaC2803/Sales-Trend-Forecasting/blob/main/Sales_Dashboard.pdf)
+
+🚀 [Live Dashboard](YOUR_STREAMLIT_APP_URL)
+
 
 
 ## 🎯 Career Interests
